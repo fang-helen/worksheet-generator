@@ -7,6 +7,6 @@ Application built using Java and JavaFX. .docx Export implemented through the Ap
 
 ![Application Interface](/screenshots/interface.png)
 
-The `WorksheetGenerator/` directory contains the full Eclipse project structure. The source code can be found in `WorksheetGenerator/src/`. <br /><br />
+`WorksheetGenerator.jar` is a runnable JAR of the completed application. The `WorksheetGenerator/` directory contains the full Eclipse project structure. The source code can be found in `WorksheetGenerator/src/`. <br /><br />
 ![Sample Worksheet](/screenshots/questions.png)
 ![Sample Answer Key](/screenshots/answers.png)
